@@ -1,0 +1,29 @@
+{
+    "name": "SeaWeedLifeV2",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.13.55",
+        "tag": "v1.13.55",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/1b3fc64620f77c6224e58f0d2efa9ce1db21f906",
+        "target": "1.12.46",
+        "pxt": "9.3.10",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
